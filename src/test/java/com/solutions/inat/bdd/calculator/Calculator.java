@@ -1,7 +1,7 @@
 package com.solutions.inat.bdd.calculator;
 
 public class Calculator {
-    public Integer add(Integer a, Integer b) {
+    public int add(int a, int b) {
         return a + b;
     }
 }
